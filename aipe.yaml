@@ -109,6 +109,11 @@
   },
   "documentation": [
     "README.md",
-    "docs/ecosystem-v0.1.md"
+    "docs/ecosystem-v0.1.md",
+    "docs/aipe-plugin-architecture.md",
+    "docs/content-migration-map.md",
+    "docs/development.md",
+    "docs/exploration-template.md",
+    "docs/site-structure.md"
   ]
 }
